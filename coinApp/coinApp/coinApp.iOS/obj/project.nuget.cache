@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdCFhwrt3X8XS97Pksxt6A7dCw4WXxS0tsehyTtj/PoK7mNFSGAMKq7xEWHmUeW5ggrhC+PoXX/yxrd+DA2K3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\source\\repos\\coinApp\\coinApp\\coinApp.iOS\\coinApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.appcenter\\5.0.0\\microsoft.appcenter.5.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.appcenter.analytics\\5.0.0\\microsoft.appcenter.analytics.5.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.appcenter.crashes\\5.0.0\\microsoft.appcenter.crashes.5.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="coinApp.MainPage">
+
+    <StackLayout BackgroundColor="Pink">
+        <Image Source="https://www.nsbpictures.com/wp-content/uploads/2019/11/games-superman-vector-png-logo-31.png"/>
+            <Label Text="Cripto Currency Tracker" TextColor="Black" HorizontalOptions="Center" FontSize="Large"/>
+        <ListView HasUnevenRows="True" x:Name="coinListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout BackgroundColor="Beige" Orientation="Horizontal" Padding="10,0,10,0">
+                            <Image Source="{Binding Icon_url}"
+                                   HeightRequest="50"/>
+                            <StackLayout Orientation="Horizontal" Padding="0,0,0,0">
+                                <StackLayout Orientation="Vertical" Padding="0,0,0,0" WidthRequest="200">
+                                    <Label Text="{Binding Name}"/>
+                                    <Label Text="{Binding Asset_id}"/>
+                                </StackLayout>
+                                <Label Text="{Binding Price_usd, StringFormat='{}{0:c}'}" HorizontalOptions="EndAndExpand"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Refresh" BackgroundColor="Beige" Clicked="Button_Clicked"/>
+    </StackLayout>
+    
+
+</ContentPage>

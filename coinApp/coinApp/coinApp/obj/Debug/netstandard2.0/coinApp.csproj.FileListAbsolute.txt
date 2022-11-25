@@ -1,0 +1,15 @@
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\bin\Debug\netstandard2.0\coinApp.deps.json
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\bin\Debug\netstandard2.0\coinApp.dll
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\bin\Debug\netstandard2.0\coinApp.pdb
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.csproj.AssemblyReference.cache
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.AssemblyInfo.cs
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.dll
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\refint\coinApp.dll
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\coinApp.pdb
+C:\Users\aaron\source\repos\coinApp\coinApp\coinApp\obj\Debug\netstandard2.0\ref\coinApp.dll
