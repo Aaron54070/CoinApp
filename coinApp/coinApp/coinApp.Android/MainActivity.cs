@@ -14,11 +14,21 @@ namespace coinApp.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            AppCenter.Start("android=819203c6-5adb-4956-a4f7-5c0a7612c16f;",
+                  typeof(Analytics), typeof(Crashes));
             base.OnCreate(savedInstanceState);
             AppCenter.Start("{819203c6-5adb-4956-a4f7-5c0a7612c16f}", typeof(Analytics), typeof(Crashes));
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
+            try
+            {
+                Crashes.GenerateTestCrash();
+            }
+            catch (Exception exception)
+            {
+                Crashes.TrackError(exception);
+            }
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
